@@ -1,7 +1,6 @@
 example.property: "DEFAULT"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
-spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 spring.jpa.show-sql: "true"
 spring.datasource.driver-class-name: "org.postgresql.Driver"
 spring.datasource.url: "jdbc:postgresql://database:5432/company_service_db" 
