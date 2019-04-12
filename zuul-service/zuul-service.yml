@@ -1,0 +1,4 @@
+zuul.ignored-services: "*"
+zuul.prefix:  /api
+zuul.routes.company-service: /company/**
+zuul.routes.assets-service: /assets/**
